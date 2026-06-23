@@ -23,5 +23,4 @@ services:
         generateValue: true
       - key: SESSION_SECRET
         generateValue: true
-      - key: DB_PATH
-        value: /var/data/cloaktalk.db
+
